@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.rbc
 capybara-*.html
 .rspec
@@ -40,3 +41,8 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+=======
+_site
+.sass-cache
+.jekyll-metadata
+>>>>>>> Jekyll template added
