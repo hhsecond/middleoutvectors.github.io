@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: MiddleOut
+email: sherin.thomas@cowrks.com, sricharanized@gmail.com, sudhanshu.passi@cowrks.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Efficient word vectors implementation which uses entirely different approach than state-of-the-art
+  word2vec/GloVe vectors. Shamelessly stole the name from silicon valley series, we establish the middleout
+  approach of upgrading the vecotor from both sides, backpropagating the error outwards from the middle.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://middleoutvectors.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllr
+github_username:  middleoutvectors
 
 # Build settings
 markdown: kramdown
